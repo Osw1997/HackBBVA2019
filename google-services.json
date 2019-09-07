@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377461827760",
+    "firebase_url": "https://hackbbva2019-a5926.firebaseio.com",
+    "project_id": "hackbbva2019-a5926",
+    "storage_bucket": "hackbbva2019-a5926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377461827760:android:9a45ebc281f5e84e173375",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377461827760-u48bf1ar4kd8sqcklnk7tvn1vueh6uqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChkArzq_jzzTDB4jqSmDkp2qs4CZjWGX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377461827760-u48bf1ar4kd8sqcklnk7tvn1vueh6uqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
